@@ -1,0 +1,22 @@
+{
+  "name": "reactp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizansekiro/reactp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizansekiro/reactp1/issues"
+  },
+  "homepage": "https://github.com/mizansekiro/reactp1#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
